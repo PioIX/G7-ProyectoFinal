@@ -50,13 +50,12 @@ Cuando una persona quiera adoptar una mascota, debe completar un formulario que 
 
 **Primer entregable (28/10)**
 * Estructura de la base de datos
-* Historia ateneo
+* Información perfiles
 * Maqueta html
 
 **Segundo entregable (11/11)**
 * API en flask
 * UI de información en conjunto con back-end
-*Pruebas de juego
 
 **Tercer entregable (18/11)**
 * Página completa
