@@ -34,7 +34,7 @@ Cuando una persona quiera adoptar una mascota, debe completar un formulario que 
 
 
 **Tareas:**
-1. Investigación historia del ateneo
+1. Recolección de perfiles de mascotas
 2. Diseño base de datos
 3. CRUD
 4. Diseño de imagen y de la UI
@@ -45,10 +45,7 @@ Cuando una persona quiera adoptar una mascota, debe completar un formulario que 
 
 
 **Responsabilidades**
-2. 3. 5. Thames
-5. 3. 6. Maidana
-4. 5. 6. 8. Rodríguez
-4. 5. 6. Bianchi
+2. 3. 5. Thames || 5. 3. 6. Maidana || 5. 6. 8. Rodríguez || 5. 6. Bianchi
 
 
 **Primer entregable (28/10)**
