@@ -17,8 +17,6 @@ Grupo: 7 División:	A
 
 Vamos a desarrollar una página web que organice adopciones de perros y gatos.
 
-Al ingresar a la página, el usuario tendrá la opción de loguearse o registrarse.
-
 Habrá una página de inicio en donde aparezca una serie de imágenes de mascotas ya adoptadas con sus dueños (que se van a ir proyectando progresivamente). 
 Por otro lado, en la parte izquierda aparecerá un menú desplegable vertical. Allí estarán las opciones de: Perros en Adopción, Gatos en Adopción, Nuestra Misión, Refugio. Desde este último botón, el refugio se puede loguear (un sólo usuario, que es Refugio) para subir perfiles de animales en adopción. Además, el administrador puede borrar las mascotas que ya estén adoptadas.
 
