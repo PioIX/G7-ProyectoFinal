@@ -17,8 +17,6 @@ Grupo: 7 División:	A
 
 Vamos a desarrollar una página web que organice adopciones de perros y gatos.
 
-Al ingresar a la página, el usuario tendrá la opción de loguearse o registrarse.
-
 Habrá una página de inicio en donde aparezca una serie de imágenes de mascotas ya adoptadas con sus dueños (que se van a ir proyectando progresivamente). 
 Por otro lado, en la parte izquierda aparecerá un menú desplegable vertical. Allí estarán las opciones de: Perros en Adopción, Gatos en Adopción, Nuestra Misión, Refugio. Desde este último botón, el refugio se puede loguear (un sólo usuario, que es Refugio) para subir perfiles de animales en adopción. Además, el administrador puede borrar las mascotas que ya estén adoptadas.
 
@@ -26,11 +24,9 @@ Dentro de las páginas de Perros en Adopción y Gatos en Adopción, se mostraran
 
 Cuando una persona quiera adoptar una mascota, debe completar un formulario que será enviado al mail del refugio.
 
-**Funcionalidad:**
-* Perfil de administrador.
-* Ingresar un nuevo equipo al torneo.
-* Visualizar el fixture y ranking del torneo actual.
-* Acceder a la historia del ateneo. 
+**Funcionalidad: Perfil de administrador **
+* Borrar perfiles de mascotas adoptadas.
+* Cargar nuevos perfiles de mascotas.
 
 
 **Tareas:**
@@ -39,7 +35,7 @@ Cuando una persona quiera adoptar una mascota, debe completar un formulario que 
 3. CRUD
 4. Diseño de imagen y de la UI
 5. Funciones de interacción con la base (Flask) 
-6. Front-end del juego (HTML, CSS, JS)
+6. Front-end de la página (HTML, CSS, JS)
 7. Testeo 
 8. Puesta en producción
 
